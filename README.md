@@ -1,4 +1,3 @@
-### ===== English Speakers ======================================
 # **Hi there 👋 I'm Joshua**
 ### On September 1st, 2023, I completed a Data Science bootcamp🎓at [Le Wagon](https://www.lewagon.com/data-science-course) in Tokyo!
 ### Now, I am looking to start a career in Data Science / Machine Learning.
@@ -9,8 +8,6 @@
 #### [LinkedIn](https://www.linkedin.com/in/joshua-higgins-jp/)   |   [Wantedly](https://www.wantedly.com/id/joshua_higgins)
 
 ###
-
-### ===== 日本語の方 ==========================================
 
 # どうも 👋 ジョシュアです。
 ### ２０２３年９月１日に、東京にある🎓[Le Wagon](https://www.lewagon.com/data-science-course)というコーディングブートキャンプを終了ました。

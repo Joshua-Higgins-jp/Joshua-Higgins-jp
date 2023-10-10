@@ -7,6 +7,7 @@ Now, I am looking to start a career in Data Science / Machine Learning.
 - 📗 **I’m currently reading:** [Machine Learning](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
 
 Looking forward to hearing from you 👍 Check out my other socials below: 
+
 [LinkedIn](https://www.linkedin.com/in/joshua-higgins-jp/)   |   [Wantedly](https://www.wantedly.com/id/joshua_higgins)
 
 ###
@@ -20,5 +21,7 @@ Looking forward to hearing from you 👍 Check out my other socials below:
 - 📗 読書中： [機械学習](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
 
 GitHub以外のSNS、ぜひご覧ください！
+
 [LinkedIn](https://www.linkedin.com/in/joshua-higgins-jp/) 　|　[Wantedly](https://www.wantedly.com/id/joshua_higgins)
+
 よろしくお願いします 🤝

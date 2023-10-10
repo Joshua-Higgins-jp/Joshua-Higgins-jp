@@ -13,7 +13,7 @@ Looking forward to hearing from you 👍 Check out my other socials below:
 ###
 
 # どうも 👋 ジョシュアです。
-２０２３年９月１日に、東京にある🎓[Le Wagon](https://www.lewagon.com/data-science-course)というコーディングブートキャンプを終了ました。
+２０２３年９月１日に、東京にある🎓[Le Wagon](https://www.lewagon.com/data-science-course)というコーディングブートキャンプを終了しました。
 
 現在は、データサイエンス・機械学習に関係がある仕事を探しています。
 - 🖥️ **現在取り組み中：** [眠気検出 + LSTM](https://github.com/ChrisBell193/Siesta_Sentry) and [探索的データ分析（EDA）](https://github.com/Joshua-Higgins-jp/Auction_Hunters_EDA)

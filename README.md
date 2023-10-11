@@ -20,7 +20,7 @@ Looking forward to hearing from you 👍 Check out my other socials below:
 - 💬 **もっと話そう：** 日本車・昔のスポーツカー（RB26系, EJ20系 などの搭載車)
 - 📗 **読書中：** [実践機械学習](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
 
-GitHub以外のSNS、ぜひご覧く実践！
+GitHub以外のSNS、ぜひご覧ください！
 
 [LinkedIn](https://www.linkedin.com/in/joshua-higgins-jp/) 　|　[Wantedly](https://www.wantedly.com/id/joshua_higgins)
 

@@ -4,7 +4,7 @@ On September 1st, 2023, I completed a Data Science bootcamp🎓at [Le Wagon](htt
 Now, I am looking to start a career in Data Science / Machine Learning.
 - 🖥️ **I’m currently working on:** [Drowsiness Detection with LSTM](https://github.com/ChrisBell193/Siesta_Sentry) and [Explorative Data Analysis](https://github.com/Joshua-Higgins-jp/Auction_Hunters_EDA)
 - 💬 **Talk with me about:** Japanese cars (RB26, EJ20 etc.)
-- 📗 **I’m currently reading:** [Machine Learning](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
+- 📗 **I’m currently reading:** [Hands On Machine Learning](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
 
 Looking forward to hearing from you 👍 Check out my other socials below: 
 

@@ -1,25 +1,15 @@
 # **Hi there 👋 I'm Joshua**
-I work as a DX Engineer for Agricultural Technology.
+I work as a DX Engineer for Agricultural Technology. I make software for automation in agriculture. 
 
 - 🖥️ **I’m currently working on:** [Drowsiness Detection with LSTM](https://github.com/ChrisBell193/Siesta_Sentry) and [Explorative Data Analysis](https://github.com/Joshua-Higgins-jp/Auction_Hunters_EDA)
 - 💬 **Talk with me about:** Japanese cars (RB26, EJ20 etc.)
 - 📗 **I’m currently reading:** [Hands On Machine Learning](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
 
-Looking forward to hearing from you 👍 Check out my other socials below: 
-
-[LinkedIn](https://www.linkedin.com/in/joshua-higgins-jp/)   |   [Wantedly](https://www.wantedly.com/id/joshua_higgins)
-
-###
-
 # どうも 👋 ジョシュアです。
-現在では、農業DXエンジニアとして働いています。
+現在では、農業DXエンジニアとして働いています。農業における自動化用のソフトウェアを作っています。
 
 - 🖥️ **現在取り組み中：** [眠気検出 + LSTM](https://github.com/ChrisBell193/Siesta_Sentry) and [探索的データ分析（EDA）](https://github.com/Joshua-Higgins-jp/Auction_Hunters_EDA)
 - 💬 **もっと話そう：** 日本車・昔のスポーツカー（RB26系, EJ20系 などの搭載車)
 - 📗 **読書中：** [実践機械学習](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
-
-GitHub以外のSNS、ぜひご覧ください！
-
-[LinkedIn](https://www.linkedin.com/in/joshua-higgins-jp/) 　|　[Wantedly](https://www.wantedly.com/id/joshua_higgins)
 
 よろしくお願いします 🤝

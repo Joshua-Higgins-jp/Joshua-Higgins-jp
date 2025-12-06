@@ -1,5 +1,6 @@
 # **👋 I'm Joshua**
-I work as a Software Engineer as a local Agri-tech start up. This github is for my personal projects only (my work account is totally separate).
+Mechanical Engineer turned Software Engineer in Japan. Coding plant monitoring apps for a local Agri-tech start up. 
+This github is for my personal projects only (no work stuff here).
 
 - 🖥️ **I’m currently working on:** [GuitarFlow](https://github.com/Joshua-Higgins-jp/GuitarFlow) (Public soon!)
 - 💬 **Talk with me about:** Japanese cars (RB26, EJ20 etc.)

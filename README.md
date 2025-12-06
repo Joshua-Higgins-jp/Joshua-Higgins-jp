@@ -1,5 +1,5 @@
 # **Hi there 👋 I'm Joshua**
-I work as a Software Engineer as a local Agri-tech start up. This github is my personal projects account, you won't see much activity on it since I code on my work account.
+I work as a Software Engineer as a local Agri-tech start up. This github is for my personal projects only (my work account is totally separate).
 
 - 🖥️ **I’m currently working on:** [GuitarFlow](https://github.com/Joshua-Higgins-jp/GuitarFlow)
 - 💬 **Talk with me about:** Japanese cars (RB26, EJ20 etc.)

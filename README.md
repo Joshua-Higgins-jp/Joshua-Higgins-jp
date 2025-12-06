@@ -1,16 +1,6 @@
 # **Hi there 👋 I'm Joshua**
-I work as a DX Engineer for Agricultural Technology. Simply put, I make automation and AI related programs to help grow vegetables more efficiently. 
-This account only has my spare time / portfolio projects which I *hope* to finish..someday.
+I work as a Software Engineer as a local Agri-tech start up. This github is my personal projects account, you won't see much activity on it since I code on my work account.
 
-- 🖥️ **I’m currently working on:** [Drowsiness Detection with LSTM](https://github.com/ChrisBell193/Siesta_Sentry) and [Explorative Data Analysis](https://github.com/Joshua-Higgins-jp/Auction_Hunters_EDA)
+- 🖥️ **I’m currently working on:** [GuitarFlow](https://github.com/Joshua-Higgins-jp/GuitarFlow)
 - 💬 **Talk with me about:** Japanese cars (RB26, EJ20 etc.)
-- 📗 **I’m currently reading:** [Hands On Machine Learning](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
-
-# どうも 👋 ジョシュアです。
-現在では、農業DXエンジニアとして働いています。農業における自動化用のソフトウェアを作っています。このアカウントでは、仕事用のコードが載せていません。個人的なプロジェクト・ポートフォリオなど用ですね。ご理解のほどお願いいたします。
-
-- 🖥️ **現在取り組み中：** [眠気検出 + LSTM](https://github.com/ChrisBell193/Siesta_Sentry) and [探索的データ分析（EDA）](https://github.com/Joshua-Higgins-jp/Auction_Hunters_EDA)
-- 💬 **もっと話そう：** 日本車・昔のスポーツカー（RB26系, EJ20系 などの搭載車)
-- 📗 **読書中：** [実践機械学習](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
-
-よろしくお願いします 🤝
+- 📗 **I’m currently reading:** [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)

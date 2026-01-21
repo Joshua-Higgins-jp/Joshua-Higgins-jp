@@ -1,5 +1,5 @@
 # **👋 I'm Joshua**
-Mechanical Engineer turned Software Engineer in Japan. I spend my days coding up various plant monitoring applications for a local Agri-tech start up and expanding sales overseas. 
+Mechanical Engineer turned Software Engineer in Japan. I build app backends for AgriTech in the cloud and other fun stuff.
 This github is for my personal projects only (no work stuff here).
 
 - 🖥️ **I’m currently working on:** [GuitarFlow](https://github.com/Joshua-Higgins-jp/GuitarFlow) (Now Public!)

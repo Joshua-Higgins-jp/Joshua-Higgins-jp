@@ -2,9 +2,9 @@
 Mechanical Engineer turned Software Engineer in Japan. I build app backends for AgriTech in the cloud and other fun stuff.
 This github is for my personal projects only (no work stuff here).
 
-- 🖥️ **I’m currently working on:** [GuitarFlow](https://github.com/Joshua-Higgins-jp/GuitarFlow) (Now Public!)
-- 💬 **Talk with me about:** Japanese cars (RB26, EJ20 etc.)
-- 📗 **I’m currently reading:** [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
+- 🖥️ **I’m currently working on:** [GuitarFlow](https://github.com/Joshua-Higgins-jp/GuitarFlow)
+- 💬 **Talk with me about:** Japanese cars (STI, GTR, any of the JDM Heroes)
+- 📗 **I’m currently reading:** [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) [Practical Machine Learning for Computer Vision](https://www.oreilly.com/library/view/practical-machine-learning/9781098102357/)
 
 ### 🛠️ Tech Stack
 
